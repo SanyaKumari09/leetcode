@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/SanyaKumari09/leetcode/tree/master/0118-pascals-triangle) |
 | [0303-range-sum-query-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/SanyaKumari09/leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/SanyaKumari09/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -19,4 +20,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/SanyaKumari09/leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
