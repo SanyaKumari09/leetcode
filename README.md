@@ -8,6 +8,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SanyaKumari09/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SanyaKumari09/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/SanyaKumari09/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SanyaKumari09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/SanyaKumari09/leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/SanyaKumari09/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/SanyaKumari09/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SanyaKumari09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
