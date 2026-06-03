@@ -7,9 +7,8 @@ class Solution{
         map.put(0,1);
         for(int i=0; i<n; i++){
             currSum+=nums[i];
-            int find = currSum-k;
-            if(map.containsKey(find)){
-                count = count+ map.get(find);
+            if(map.containsKey(currSum-k)){
+                count = count+ map.get(currSum-k);
             }
             map.put(currSum, map.getOrDefault(currSum,0)+1);
         }
