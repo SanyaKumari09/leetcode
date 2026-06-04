@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SanyaKumari09/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanyaKumari09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/SanyaKumari09/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SanyaKumari09/leetcode/tree/master/0724-find-pivot-index) |
@@ -44,6 +45,7 @@
 | [0031-next-permutation](https://github.com/SanyaKumari09/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SanyaKumari09/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,4 +71,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SanyaKumari09/leetcode/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
