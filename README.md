@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SanyaKumari09/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/SanyaKumari09/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SanyaKumari09/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/SanyaKumari09/leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/SanyaKumari09/leetcode/tree/master/0048-rotate-image) |
@@ -51,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SanyaKumari09/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SanyaKumari09/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/SanyaKumari09/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/SanyaKumari09/leetcode/tree/master/0061-rotate-list) |
@@ -86,6 +88,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SanyaKumari09/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SanyaKumari09/leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/SanyaKumari09/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SanyaKumari09/leetcode/tree/master/0075-sort-colors) |
