@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/SanyaKumari09/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/SanyaKumari09/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SanyaKumari09/leetcode/tree/master/0018-4sum) |
@@ -32,8 +32,8 @@
 | [1991-find-the-middle-index-in-array](https://github.com/SanyaKumari09/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SanyaKumari09/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/SanyaKumari09/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -44,20 +44,21 @@
 | [1991-find-the-middle-index-in-array](https://github.com/SanyaKumari09/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SanyaKumari09/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/SanyaKumari09/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/SanyaKumari09/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SanyaKumari09/leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/SanyaKumari09/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanyaKumari09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/SanyaKumari09/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SanyaKumari09/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/SanyaKumari09/leetcode/tree/master/0031-next-permutation) |
@@ -71,8 +72,8 @@
 | [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/SanyaKumari09/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanyaKumari09/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/SanyaKumari09/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -86,15 +87,15 @@
 | [0560-subarray-sum-equals-k](https://github.com/SanyaKumari09/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SanyaKumari09/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/SanyaKumari09/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SanyaKumari09/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SanyaKumari09/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/SanyaKumari09/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SanyaKumari09/leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/SanyaKumari09/leetcode/tree/master/0056-merge-intervals) |
@@ -103,71 +104,73 @@
 | [0169-majority-element](https://github.com/SanyaKumari09/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/SanyaKumari09/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SanyaKumari09/leetcode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/SanyaKumari09/leetcode/tree/master/0493-reverse-pairs) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/SanyaKumari09/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SanyaKumari09/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SanyaKumari09/leetcode/tree/master/0062-unique-paths) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SanyaKumari09/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/SanyaKumari09/leetcode/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SanyaKumari09/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SanyaKumari09/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/SanyaKumari09/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/SanyaKumari09/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/SanyaKumari09/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0229-majority-element-ii) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/SanyaKumari09/leetcode/tree/master/0062-unique-paths) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/SanyaKumari09/leetcode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/SanyaKumari09/leetcode/tree/master/0493-reverse-pairs) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/SanyaKumari09/leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0493-reverse-pairs](https://github.com/SanyaKumari09/leetcode/tree/master/0493-reverse-pairs) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanyaKumari09/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/SanyaKumari09/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanyaKumari09/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SanyaKumari09/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SanyaKumari09/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/SanyaKumari09/leetcode/tree/master/0061-rotate-list) |
@@ -179,11 +182,15 @@
 | [0234-palindrome-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0040-combination-sum-ii) |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/SanyaKumari09/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 <!---LeetCode Topics End-->
