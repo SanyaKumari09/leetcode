@@ -18,6 +18,7 @@
 | [0088-merge-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SanyaKumari09/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanyaKumari09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/SanyaKumari09/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SanyaKumari09/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -57,6 +58,7 @@
 | [0062-unique-paths](https://github.com/SanyaKumari09/leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/SanyaKumari09/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanyaKumari09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
