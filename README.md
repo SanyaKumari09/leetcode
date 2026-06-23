@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/SanyaKumari09/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/SanyaKumari09/leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SanyaKumari09/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0040-combination-sum-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0040-combination-sum-ii) |
@@ -130,6 +131,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SanyaKumari09/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/SanyaKumari09/leetcode/tree/master/0074-search-a-2d-matrix) |
