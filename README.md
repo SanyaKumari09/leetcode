@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SanyaKumari09/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/SanyaKumari09/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SanyaKumari09/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/SanyaKumari09/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/SanyaKumari09/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0040-combination-sum-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0040-combination-sum-ii) |
@@ -69,6 +70,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/SanyaKumari09/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SanyaKumari09/leetcode/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/SanyaKumari09/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/SanyaKumari09/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SanyaKumari09/leetcode/tree/master/0075-sort-colors) |
