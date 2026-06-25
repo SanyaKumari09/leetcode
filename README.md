@@ -185,6 +185,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanyaKumari09/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/SanyaKumari09/leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0753-cracking-the-safe](https://github.com/SanyaKumari09/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,4 +224,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0753-cracking-the-safe](https://github.com/SanyaKumari09/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0753-cracking-the-safe](https://github.com/SanyaKumari09/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0753-cracking-the-safe](https://github.com/SanyaKumari09/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 <!---LeetCode Topics End-->
