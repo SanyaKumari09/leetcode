@@ -33,6 +33,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0493-reverse-pairs](https://github.com/SanyaKumari09/leetcode/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/SanyaKumari09/leetcode/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SanyaKumari09/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SanyaKumari09/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/SanyaKumari09/leetcode/tree/master/0724-find-pivot-index) |
@@ -142,6 +143,7 @@
 | [0162-find-peak-element](https://github.com/SanyaKumari09/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/SanyaKumari09/leetcode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/SanyaKumari09/leetcode/tree/main/0704-binary-search/) | Easy |
 | [3454-separate-squares-ii](https://github.com/SanyaKumari09/leetcode/tree/main/3454-separate-squares-ii/) | Hard |
 ## Bit Manipulation
