@@ -37,6 +37,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SanyaKumari09/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SanyaKumari09/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/SanyaKumari09/leetcode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/SanyaKumari09/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SanyaKumari09/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/SanyaKumari09/leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -145,6 +146,7 @@
 | [0493-reverse-pairs](https://github.com/SanyaKumari09/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/SanyaKumari09/leetcode/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/SanyaKumari09/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [3454-separate-squares-ii](https://github.com/SanyaKumari09/leetcode/tree/main/3454-separate-squares-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
