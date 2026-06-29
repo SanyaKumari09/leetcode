@@ -72,6 +72,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanyaKumari09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/SanyaKumari09/leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/SanyaKumari09/leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,4 +257,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/SanyaKumari09/leetcode/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/SanyaKumari09/leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 <!---LeetCode Topics End-->
