@@ -44,6 +44,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/SanyaKumari09/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3454-separate-squares-ii](https://github.com/SanyaKumari09/leetcode/tree/main/3454-separate-squares-ii/) | Hard |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SanyaKumari09/leetcode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@
 | [0525-contiguous-array](https://github.com/SanyaKumari09/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SanyaKumari09/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SanyaKumari09/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SanyaKumari09/leetcode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/SanyaKumari09/leetcode/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -228,6 +230,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/SanyaKumari09/leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SanyaKumari09/leetcode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/SanyaKumari09/leetcode/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
