@@ -40,6 +40,7 @@
 | [0875-koko-eating-bananas](https://github.com/SanyaKumari09/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SanyaKumari09/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1027-longest-arithmetic-subsequence](https://github.com/SanyaKumari09/leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/SanyaKumari09/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SanyaKumari09/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -73,6 +74,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanyaKumari09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1027-longest-arithmetic-subsequence](https://github.com/SanyaKumari09/leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/SanyaKumari09/leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -105,6 +107,7 @@
 | [0525-contiguous-array](https://github.com/SanyaKumari09/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SanyaKumari09/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SanyaKumari09/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1027-longest-arithmetic-subsequence](https://github.com/SanyaKumari09/leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SanyaKumari09/leetcode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/SanyaKumari09/leetcode/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
 ## Matrix
@@ -151,6 +154,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/SanyaKumari09/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/SanyaKumari09/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1027-longest-arithmetic-subsequence](https://github.com/SanyaKumari09/leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [3454-separate-squares-ii](https://github.com/SanyaKumari09/leetcode/tree/main/3454-separate-squares-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
