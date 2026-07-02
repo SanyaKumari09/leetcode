@@ -41,6 +41,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SanyaKumari09/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/SanyaKumari09/leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SanyaKumari09/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SanyaKumari09/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/SanyaKumari09/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SanyaKumari09/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -156,6 +157,7 @@
 | [0704-binary-search](https://github.com/SanyaKumari09/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/SanyaKumari09/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/SanyaKumari09/leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SanyaKumari09/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SanyaKumari09/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [3454-separate-squares-ii](https://github.com/SanyaKumari09/leetcode/tree/main/3454-separate-squares-ii/) | Hard |
 ## Bit Manipulation
