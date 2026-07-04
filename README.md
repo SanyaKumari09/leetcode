@@ -28,6 +28,7 @@
 | [0169-majority-element](https://github.com/SanyaKumari09/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/SanyaKumari09/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SanyaKumari09/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -122,6 +123,7 @@
 | [0048-rotate-image](https://github.com/SanyaKumari09/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SanyaKumari09/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SanyaKumari09/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SanyaKumari09/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -138,6 +140,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/SanyaKumari09/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SanyaKumari09/leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SanyaKumari09/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/SanyaKumari09/leetcode/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Math
@@ -155,6 +158,7 @@
 | [0074-search-a-2d-matrix](https://github.com/SanyaKumari09/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/SanyaKumari09/leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/SanyaKumari09/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/SanyaKumari09/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/SanyaKumari09/leetcode/tree/master/0493-reverse-pairs) |
