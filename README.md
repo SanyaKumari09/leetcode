@@ -151,6 +151,7 @@
 | [0048-rotate-image](https://github.com/SanyaKumari09/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SanyaKumari09/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SanyaKumari09/leetcode/tree/master/0062-unique-paths) |
+| [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0258-add-digits](https://github.com/SanyaKumari09/leetcode/tree/main/0258-add-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -219,6 +220,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanyaKumari09/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/SanyaKumari09/leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0753-cracking-the-safe](https://github.com/SanyaKumari09/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/SanyaKumari09/leetcode/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
 ## Sliding Window
