@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SanyaKumari09/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/SanyaKumari09/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0040-combination-sum-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/SanyaKumari09/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SanyaKumari09/leetcode/tree/master/0053-maximum-subarray) |
@@ -106,6 +107,7 @@
 | [0001-two-sum](https://github.com/SanyaKumari09/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SanyaKumari09/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SanyaKumari09/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0036-valid-sudoku](https://github.com/SanyaKumari09/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SanyaKumari09/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/SanyaKumari09/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SanyaKumari09/leetcode/tree/master/0141-linked-list-cycle) |
@@ -122,6 +124,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/SanyaKumari09/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/SanyaKumari09/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SanyaKumari09/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SanyaKumari09/leetcode/tree/master/0074-search-a-2d-matrix) |
