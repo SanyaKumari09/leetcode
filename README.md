@@ -164,6 +164,7 @@
 | [0048-rotate-image](https://github.com/SanyaKumari09/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SanyaKumari09/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SanyaKumari09/leetcode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/SanyaKumari09/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0258-add-digits](https://github.com/SanyaKumari09/leetcode/tree/main/0258-add-digits/) | Easy |
 ## Binary Search
@@ -172,6 +173,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SanyaKumari09/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/SanyaKumari09/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/SanyaKumari09/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/SanyaKumari09/leetcode/tree/main/0162-find-peak-element/) | Medium |
