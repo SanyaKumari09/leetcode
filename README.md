@@ -167,6 +167,7 @@
 | [0069-sqrtx](https://github.com/SanyaKumari09/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0258-add-digits](https://github.com/SanyaKumari09/leetcode/tree/main/0258-add-digits/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/SanyaKumari09/leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +247,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/SanyaKumari09/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0753-cracking-the-safe](https://github.com/SanyaKumari09/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/SanyaKumari09/leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/SanyaKumari09/leetcode/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
