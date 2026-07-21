@@ -167,6 +167,7 @@
 | [0069-sqrtx](https://github.com/SanyaKumari09/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0258-add-digits](https://github.com/SanyaKumari09/leetcode/tree/main/0258-add-digits/) | Easy |
+| [1175-prime-arrangements](https://github.com/SanyaKumari09/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SanyaKumari09/leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
