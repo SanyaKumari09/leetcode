@@ -242,6 +242,7 @@
 | [0013-roman-to-integer](https://github.com/SanyaKumari09/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/SanyaKumari09/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0044-wildcard-matching](https://github.com/SanyaKumari09/leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0093-restore-ip-addresses](https://github.com/SanyaKumari09/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0242-valid-anagram](https://github.com/SanyaKumari09/leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -281,6 +282,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0040-combination-sum-ii) |
+| [0093-restore-ip-addresses](https://github.com/SanyaKumari09/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
