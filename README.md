@@ -168,6 +168,7 @@
 | [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0258-add-digits](https://github.com/SanyaKumari09/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/SanyaKumari09/leetcode/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/SanyaKumari09/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [1175-prime-arrangements](https://github.com/SanyaKumari09/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SanyaKumari09/leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 ## Binary Search
@@ -207,6 +208,7 @@
 | [0050-powx-n](https://github.com/SanyaKumari09/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/SanyaKumari09/leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
