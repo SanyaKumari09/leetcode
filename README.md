@@ -171,6 +171,7 @@
 | [0258-add-digits](https://github.com/SanyaKumari09/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/SanyaKumari09/leetcode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/SanyaKumari09/leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0412-fizz-buzz](https://github.com/SanyaKumari09/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1175-prime-arrangements](https://github.com/SanyaKumari09/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SanyaKumari09/leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 ## Binary Search
@@ -254,6 +255,7 @@
 | [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0242-valid-anagram](https://github.com/SanyaKumari09/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SanyaKumari09/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/SanyaKumari09/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/SanyaKumari09/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0753-cracking-the-safe](https://github.com/SanyaKumari09/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
@@ -334,6 +336,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/SanyaKumari09/leetcode/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/SanyaKumari09/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
