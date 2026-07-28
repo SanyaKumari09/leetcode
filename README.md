@@ -103,6 +103,7 @@
 | [0234-palindrome-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SanyaKumari09/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/SanyaKumari09/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/SanyaKumari09/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -255,6 +256,7 @@
 | [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0242-valid-anagram](https://github.com/SanyaKumari09/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SanyaKumari09/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/SanyaKumari09/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/SanyaKumari09/leetcode/tree/main/0443-string-compression/) | Medium |
