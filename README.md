@@ -121,6 +121,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SanyaKumari09/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SanyaKumari09/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/SanyaKumari09/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SanyaKumari09/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -254,6 +255,7 @@
 | [0093-restore-ip-addresses](https://github.com/SanyaKumari09/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0205-isomorphic-strings](https://github.com/SanyaKumari09/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/SanyaKumari09/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SanyaKumari09/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
