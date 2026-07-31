@@ -72,6 +72,7 @@
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1603-design-parking-system](https://github.com/SanyaKumari09/leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +221,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SanyaKumari09/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0229-majority-element-ii) |
+| [1603-design-parking-system](https://github.com/SanyaKumari09/leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +347,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/SanyaKumari09/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/SanyaKumari09/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [1603-design-parking-system](https://github.com/SanyaKumari09/leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
