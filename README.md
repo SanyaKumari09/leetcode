@@ -67,6 +67,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/SanyaKumari09/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SanyaKumari09/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/SanyaKumari09/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/SanyaKumari09/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/SanyaKumari09/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Design
@@ -181,6 +182,7 @@
 | [1175-prime-arrangements](https://github.com/SanyaKumari09/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SanyaKumari09/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SanyaKumari09/leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/SanyaKumari09/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
