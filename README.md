@@ -52,6 +52,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/SanyaKumari09/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SanyaKumari09/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3427-sum-of-variable-length-subarrays](https://github.com/SanyaKumari09/leetcode/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3454-separate-squares-ii](https://github.com/SanyaKumari09/leetcode/tree/main/3454-separate-squares-ii/) | Hard |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SanyaKumari09/leetcode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 ## Prefix Sum
@@ -70,6 +71,7 @@
 | [2485-find-the-pivot-integer](https://github.com/SanyaKumari09/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/SanyaKumari09/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3427-sum-of-variable-length-subarrays](https://github.com/SanyaKumari09/leetcode/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
