@@ -85,6 +85,7 @@
 | [0118-pascals-triangle](https://github.com/SanyaKumari09/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanyaKumari09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0392-is-subsequence](https://github.com/SanyaKumari09/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/SanyaKumari09/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/SanyaKumari09/leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
@@ -108,6 +109,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SanyaKumari09/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/SanyaKumari09/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/SanyaKumari09/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/SanyaKumari09/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -267,6 +269,7 @@
 | [0242-valid-anagram](https://github.com/SanyaKumari09/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SanyaKumari09/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/SanyaKumari09/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/SanyaKumari09/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/SanyaKumari09/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
