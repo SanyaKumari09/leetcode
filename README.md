@@ -169,6 +169,7 @@
 | [0053-maximum-subarray](https://github.com/SanyaKumari09/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SanyaKumari09/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SanyaKumari09/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0372-super-pow](https://github.com/SanyaKumari09/leetcode/tree/main/0372-super-pow/) | Medium |
 | [0493-reverse-pairs](https://github.com/SanyaKumari09/leetcode/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Math
@@ -184,6 +185,7 @@
 | [0258-add-digits](https://github.com/SanyaKumari09/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/SanyaKumari09/leetcode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/SanyaKumari09/leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0372-super-pow](https://github.com/SanyaKumari09/leetcode/tree/main/0372-super-pow/) | Medium |
 | [0412-fizz-buzz](https://github.com/SanyaKumari09/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1175-prime-arrangements](https://github.com/SanyaKumari09/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SanyaKumari09/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -382,4 +384,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SanyaKumari09/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Euler's Totient Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0372-super-pow](https://github.com/SanyaKumari09/leetcode/tree/main/0372-super-pow/) | Medium |
+## Euler's Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0372-super-pow](https://github.com/SanyaKumari09/leetcode/tree/main/0372-super-pow/) | Medium |
 <!---LeetCode Topics End-->
