@@ -181,6 +181,7 @@
 | [0048-rotate-image](https://github.com/SanyaKumari09/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SanyaKumari09/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SanyaKumari09/leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/SanyaKumari09/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/SanyaKumari09/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0204-count-primes](https://github.com/SanyaKumari09/leetcode/tree/main/0204-count-primes/) | Medium |
@@ -221,6 +222,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/SanyaKumari09/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/SanyaKumari09/leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Recursion
@@ -273,6 +275,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0044-wildcard-matching](https://github.com/SanyaKumari09/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0058-length-of-last-word](https://github.com/SanyaKumari09/leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/SanyaKumari09/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0093-restore-ip-addresses](https://github.com/SanyaKumari09/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
@@ -365,6 +368,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/SanyaKumari09/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/SanyaKumari09/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/SanyaKumari09/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1603-design-parking-system](https://github.com/SanyaKumari09/leetcode/tree/main/1603-design-parking-system/) | Easy |
