@@ -187,6 +187,7 @@
 | [0326-power-of-three](https://github.com/SanyaKumari09/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0372-super-pow](https://github.com/SanyaKumari09/leetcode/tree/main/0372-super-pow/) | Medium |
 | [0412-fizz-buzz](https://github.com/SanyaKumari09/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0507-perfect-number](https://github.com/SanyaKumari09/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [1175-prime-arrangements](https://github.com/SanyaKumari09/leetcode/tree/main/1175-prime-arrangements/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SanyaKumari09/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SanyaKumari09/leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
