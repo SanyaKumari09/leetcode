@@ -111,6 +111,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/SanyaKumari09/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/SanyaKumari09/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SanyaKumari09/leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -134,6 +135,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SanyaKumari09/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SanyaKumari09/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/SanyaKumari09/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/SanyaKumari09/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SanyaKumari09/leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -188,6 +190,7 @@
 | [0067-add-binary](https://github.com/SanyaKumari09/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/SanyaKumari09/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0202-happy-number](https://github.com/SanyaKumari09/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/SanyaKumari09/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/SanyaKumari09/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/SanyaKumari09/leetcode/tree/main/0292-nim-game/) | Easy |
@@ -419,4 +422,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/SanyaKumari09/leetcode/tree/main/0204-count-primes/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/SanyaKumari09/leetcode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
