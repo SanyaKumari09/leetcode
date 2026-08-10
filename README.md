@@ -192,6 +192,7 @@
 | [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/SanyaKumari09/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/SanyaKumari09/leetcode/tree/main/0204-count-primes/) | Medium |
+| [0231-power-of-two](https://github.com/SanyaKumari09/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/SanyaKumari09/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/SanyaKumari09/leetcode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/SanyaKumari09/leetcode/tree/main/0326-power-of-three/) | Easy |
@@ -232,6 +233,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/SanyaKumari09/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0231-power-of-two](https://github.com/SanyaKumari09/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SanyaKumari09/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/SanyaKumari09/leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
 ## Recursion
@@ -242,6 +244,7 @@
 | [0044-wildcard-matching](https://github.com/SanyaKumari09/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/SanyaKumari09/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/SanyaKumari09/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/SanyaKumari09/leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Counting
