@@ -203,6 +203,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SanyaKumari09/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SanyaKumari09/leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [2469-convert-the-temperature](https://github.com/SanyaKumari09/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/SanyaKumari09/leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/SanyaKumari09/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3099-harshad-number](https://github.com/SanyaKumari09/leetcode/tree/main/3099-harshad-number/) | Easy |
 ## Binary Search
@@ -431,4 +432,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/SanyaKumari09/leetcode/tree/main/0202-happy-number/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/SanyaKumari09/leetcode/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 <!---LeetCode Topics End-->
