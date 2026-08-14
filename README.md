@@ -306,6 +306,7 @@
 | [0753-cracking-the-safe](https://github.com/SanyaKumari09/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 | [0796-rotate-string](https://github.com/SanyaKumari09/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0830-positions-of-large-groups](https://github.com/SanyaKumari09/leetcode/tree/main/0830-positions-of-large-groups/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanyaKumari09/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/SanyaKumari09/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SanyaKumari09/leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/SanyaKumari09/leetcode/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
@@ -336,6 +337,7 @@
 | [0071-simplify-path](https://github.com/SanyaKumari09/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0155-min-stack](https://github.com/SanyaKumari09/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanyaKumari09/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/SanyaKumari09/leetcode/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
