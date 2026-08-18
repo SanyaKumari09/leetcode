@@ -82,6 +82,7 @@
 | [0155-min-stack](https://github.com/SanyaKumari09/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0901-online-stock-span](https://github.com/SanyaKumari09/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1603-design-parking-system](https://github.com/SanyaKumari09/leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -343,6 +344,7 @@
 | [0234-palindrome-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SanyaKumari09/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/SanyaKumari09/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/SanyaKumari09/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanyaKumari09/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/SanyaKumari09/leetcode/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
 ## Backtracking
@@ -387,6 +389,7 @@
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/SanyaKumari09/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/SanyaKumari09/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/SanyaKumari09/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/SanyaKumari09/leetcode/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -459,4 +462,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2543-check-if-point-is-reachable](https://github.com/SanyaKumari09/leetcode/tree/main/2543-check-if-point-is-reachable/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/SanyaKumari09/leetcode/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
