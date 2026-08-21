@@ -81,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/SanyaKumari09/leetcode/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/SanyaKumari09/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/SanyaKumari09/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -343,6 +344,7 @@
 | [0020-valid-parentheses](https://github.com/SanyaKumari09/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/SanyaKumari09/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0155-min-stack](https://github.com/SanyaKumari09/leetcode/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/SanyaKumari09/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/SanyaKumari09/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SanyaKumari09/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -367,6 +369,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SanyaKumari09/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/SanyaKumari09/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
