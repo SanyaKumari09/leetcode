@@ -200,6 +200,7 @@
 | [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/SanyaKumari09/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/SanyaKumari09/leetcode/tree/main/0204-count-primes/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/SanyaKumari09/leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0231-power-of-two](https://github.com/SanyaKumari09/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/SanyaKumari09/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/SanyaKumari09/leetcode/tree/main/0292-nim-game/) | Easy |
@@ -303,6 +304,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/SanyaKumari09/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/SanyaKumari09/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/SanyaKumari09/leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/SanyaKumari09/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SanyaKumari09/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -345,6 +347,7 @@
 | [0071-simplify-path](https://github.com/SanyaKumari09/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0155-min-stack](https://github.com/SanyaKumari09/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/SanyaKumari09/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0227-basic-calculator-ii](https://github.com/SanyaKumari09/leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/SanyaKumari09/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SanyaKumari09/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SanyaKumari09/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
