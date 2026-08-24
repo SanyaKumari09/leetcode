@@ -54,6 +54,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SanyaKumari09/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SanyaKumari09/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/SanyaKumari09/leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SanyaKumari09/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/SanyaKumari09/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/SanyaKumari09/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/SanyaKumari09/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -358,6 +359,7 @@
 | [0739-daily-temperatures](https://github.com/SanyaKumari09/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/SanyaKumari09/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SanyaKumari09/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SanyaKumari09/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/SanyaKumari09/leetcode/tree/main/3816-lexicographically-smallest-string-after-deleting-duplicate-characters/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -380,6 +382,7 @@
 | [0239-sliding-window-maximum](https://github.com/SanyaKumari09/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/SanyaKumari09/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SanyaKumari09/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -421,6 +424,7 @@
 | [0412-fizz-buzz](https://github.com/SanyaKumari09/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0735-asteroid-collision](https://github.com/SanyaKumari09/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1603-design-parking-system](https://github.com/SanyaKumari09/leetcode/tree/main/1603-design-parking-system/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SanyaKumari09/leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
