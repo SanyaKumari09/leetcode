@@ -39,6 +39,7 @@
 | [0410-split-array-largest-sum](https://github.com/SanyaKumari09/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/SanyaKumari09/leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/SanyaKumari09/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/SanyaKumari09/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0525-contiguous-array](https://github.com/SanyaKumari09/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SanyaKumari09/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -153,6 +154,7 @@
 | [0409-longest-palindrome](https://github.com/SanyaKumari09/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/SanyaKumari09/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/SanyaKumari09/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0525-contiguous-array](https://github.com/SanyaKumari09/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SanyaKumari09/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SanyaKumari09/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -316,6 +318,7 @@
 | [0412-fizz-buzz](https://github.com/SanyaKumari09/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/SanyaKumari09/leetcode/tree/main/0443-string-compression/) | Medium |
+| [0500-keyboard-row](https://github.com/SanyaKumari09/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0753-cracking-the-safe](https://github.com/SanyaKumari09/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 | [0796-rotate-string](https://github.com/SanyaKumari09/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0830-positions-of-large-groups](https://github.com/SanyaKumari09/leetcode/tree/main/0830-positions-of-large-groups/) | Easy |
