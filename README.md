@@ -23,6 +23,7 @@
 | [0088-merge-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SanyaKumari09/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanyaKumari09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/SanyaKumari09/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/SanyaKumari09/leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -141,6 +142,7 @@
 | [0013-roman-to-integer](https://github.com/SanyaKumari09/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/SanyaKumari09/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SanyaKumari09/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/SanyaKumari09/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/SanyaKumari09/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SanyaKumari09/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -503,4 +505,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/SanyaKumari09/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SanyaKumari09/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
