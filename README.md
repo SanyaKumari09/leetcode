@@ -15,6 +15,7 @@
 | [0036-valid-sudoku](https://github.com/SanyaKumari09/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0040-combination-sum-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/SanyaKumari09/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/SanyaKumari09/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/SanyaKumari09/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SanyaKumari09/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SanyaKumari09/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -141,6 +142,7 @@
 | [0012-integer-to-roman](https://github.com/SanyaKumari09/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/SanyaKumari09/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/SanyaKumari09/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0049-group-anagrams](https://github.com/SanyaKumari09/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SanyaKumari09/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SanyaKumari09/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/SanyaKumari09/leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -178,6 +180,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/SanyaKumari09/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SanyaKumari09/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/SanyaKumari09/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/SanyaKumari09/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SanyaKumari09/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/master/0088-merge-sorted-array) |
@@ -305,6 +308,7 @@
 | [0020-valid-parentheses](https://github.com/SanyaKumari09/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0044-wildcard-matching](https://github.com/SanyaKumari09/leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/SanyaKumari09/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/SanyaKumari09/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/SanyaKumari09/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/SanyaKumari09/leetcode/tree/main/0071-simplify-path/) | Medium |
