@@ -66,6 +66,7 @@
 | [3427-sum-of-variable-length-subarrays](https://github.com/SanyaKumari09/leetcode/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 | [3454-separate-squares-ii](https://github.com/SanyaKumari09/leetcode/tree/main/3454-separate-squares-ii/) | Hard |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/SanyaKumari09/leetcode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/SanyaKumari09/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/SanyaKumari09/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/SanyaKumari09/leetcode/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/SanyaKumari09/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
