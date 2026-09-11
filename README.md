@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/SanyaKumari09/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/SanyaKumari09/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0040-combination-sum-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/SanyaKumari09/leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/SanyaKumari09/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SanyaKumari09/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/SanyaKumari09/leetcode/tree/master/0053-maximum-subarray) |
@@ -384,6 +385,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/SanyaKumari09/leetcode/tree/main/0046-permutations/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/SanyaKumari09/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
