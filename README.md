@@ -102,6 +102,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SanyaKumari09/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/SanyaKumari09/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/SanyaKumari09/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/SanyaKumari09/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SanyaKumari09/leetcode/tree/master/0062-unique-paths) |
@@ -315,6 +316,7 @@
 | [0012-integer-to-roman](https://github.com/SanyaKumari09/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/SanyaKumari09/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/SanyaKumari09/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/SanyaKumari09/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SanyaKumari09/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0044-wildcard-matching](https://github.com/SanyaKumari09/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/SanyaKumari09/leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -384,6 +386,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/SanyaKumari09/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0040-combination-sum-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SanyaKumari09/leetcode/tree/main/0046-permutations/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/SanyaKumari09/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
@@ -534,4 +537,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SanyaKumari09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/SanyaKumari09/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
