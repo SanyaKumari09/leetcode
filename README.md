@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SanyaKumari09/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/SanyaKumari09/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/SanyaKumari09/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SanyaKumari09/leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/SanyaKumari09/leetcode/tree/master/0048-rotate-image) |
@@ -387,6 +388,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/SanyaKumari09/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/SanyaKumari09/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/SanyaKumari09/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SanyaKumari09/leetcode/tree/main/0046-permutations/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/SanyaKumari09/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
