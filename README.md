@@ -425,6 +425,7 @@
 | [0100-same-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanyaKumari09/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SanyaKumari09/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0753-cracking-the-safe](https://github.com/SanyaKumari09/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 ## Graph Theory
@@ -561,6 +562,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanyaKumari09/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SanyaKumari09/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -577,6 +579,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanyaKumari09/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SanyaKumari09/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -590,4 +593,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SanyaKumari09/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
