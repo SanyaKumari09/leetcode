@@ -24,6 +24,7 @@
 | [0074-search-a-2d-matrix](https://github.com/SanyaKumari09/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SanyaKumari09/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/SanyaKumari09/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanyaKumari09/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SanyaKumari09/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -201,6 +202,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/SanyaKumari09/leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/SanyaKumari09/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SanyaKumari09/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SanyaKumari09/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -557,6 +559,7 @@
 | [0100-same-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/SanyaKumari09/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanyaKumari09/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -572,6 +575,7 @@
 | [0100-same-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/SanyaKumari09/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SanyaKumari09/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Lifting
@@ -582,4 +586,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
