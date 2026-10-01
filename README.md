@@ -52,6 +52,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SanyaKumari09/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SanyaKumari09/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/SanyaKumari09/leetcode/tree/master/0724-find-pivot-index) |
+| [0733-flood-fill](https://github.com/SanyaKumari09/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/SanyaKumari09/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/SanyaKumari09/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/SanyaKumari09/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -183,6 +184,7 @@
 | [0074-search-a-2d-matrix](https://github.com/SanyaKumari09/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SanyaKumari09/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0733-flood-fill](https://github.com/SanyaKumari09/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/SanyaKumari09/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -428,6 +430,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SanyaKumari09/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SanyaKumari09/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0733-flood-fill](https://github.com/SanyaKumari09/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0753-cracking-the-safe](https://github.com/SanyaKumari09/leetcode/tree/main/0753-cracking-the-safe/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -573,6 +576,7 @@
 | [0101-symmetric-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/SanyaKumari09/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0733-flood-fill](https://github.com/SanyaKumari09/leetcode/tree/main/0733-flood-fill/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
