@@ -50,6 +50,7 @@
 | [0503-next-greater-element-ii](https://github.com/SanyaKumari09/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/SanyaKumari09/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SanyaKumari09/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0542-01-matrix](https://github.com/SanyaKumari09/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/SanyaKumari09/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/SanyaKumari09/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/SanyaKumari09/leetcode/tree/master/0724-find-pivot-index) |
@@ -115,6 +116,7 @@
 | [0152-maximum-product-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/SanyaKumari09/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/SanyaKumari09/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0542-01-matrix](https://github.com/SanyaKumari09/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/SanyaKumari09/leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/SanyaKumari09/leetcode/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/SanyaKumari09/leetcode/tree/main/3954-sum-of-compatible-numbers-in-range-i/) | Easy |
@@ -186,6 +188,7 @@
 | [0200-number-of-islands](https://github.com/SanyaKumari09/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/SanyaKumari09/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/SanyaKumari09/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0542-01-matrix](https://github.com/SanyaKumari09/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/SanyaKumari09/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/SanyaKumari09/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Sorting
@@ -581,6 +584,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/SanyaKumari09/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SanyaKumari09/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/SanyaKumari09/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/SanyaKumari09/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/SanyaKumari09/leetcode/tree/main/0733-flood-fill/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
